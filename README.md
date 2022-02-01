@@ -1,10 +1,16 @@
-- 👋 Hi, I'm @TamilaCambe and I live in Fortaleza-CE, Brazil.
-- 🌱 I have a degree in Administration, but I am currently exploring the world of Programming.
-- 😄 I'm currently learning HTML, CSS and Javascript.
-- 👯 I try to practice, learn more and more and collaborate with everyone and show some projects during my studies.
-- 📫 My contacts: thamycambe@gmail.com | Whatsapp +55 85 99940.1407.
+<h4 align="center"> </h4>
+<details>
+<summary>Mais...</summary>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Tamila Cambé</h1></img>
 
--->
+
+- 🌴 I live in Fortaleza-CE, Brazil.
+- 💙 I have a degree in Administration, but I am currently exploring and loving the world of Programming.
+- 🎯 I'm currently learning HTML, CSS and Javascript.
+- 👯 I try to practice, learn more and more, collaborate with everyone and show some projects during my studies.
+- 💻 Uma eterna estudante...
+- 📲 E-mail: thamycambe@gmail.com | whatsapp: +55 85 99940.1407.
+
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -30,10 +36,6 @@
    </a>
 </p>
 
-<h4 align="center">
-<details>
-<summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Tamila Alves Cambé</h1></img>
 
 <p align="center">
   <a href="https://github.com/TamilaCambe">
@@ -70,5 +72,5 @@
   </a>
 </p>
 
-<h5 align="center">TamilaCambe</h5>
+<h5 align="center">@TamilaCambe</h5>
 </details>
