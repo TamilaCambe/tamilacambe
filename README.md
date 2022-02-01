@@ -1,8 +1,3 @@
-<h4 align="center"> </h4>
-<details>
-<summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Tamila Cambé</h1></img>
-
 
 - 🌴 I live in Fortaleza-CE, Brazil.
 - 💙 I have a degree in Administration, but I am currently exploring and loving the world of Programming.
@@ -35,7 +30,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
-
+<h4 align="center"> </h4>
+<details>
+<summary>Mais...</summary>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Tamila Cambé</h1></img>
 
 <p align="center">
   <a href="https://github.com/TamilaCambe">
