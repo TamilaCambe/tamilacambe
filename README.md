@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @TamilaCambe and I live in Fortaleza-CE, Brazil.
-- 🌱 I have a degree in Business Administration, but I am currently exploring the world of Programming.
+- 🌱 I have a degree in Administration, but I am currently exploring the world of Programming.
 - 😄 I'm currently learning HTML, CSS and Javascript.
 - 👯 I try to practice, learn more and more and collaborate with everyone and show some projects during my studies.
 - 📫 My contacts: thamycambe@gmail.com | Whatsapp +55 85 99940.1407.
