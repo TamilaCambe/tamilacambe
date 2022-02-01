@@ -3,7 +3,7 @@
 - 💙 I have a degree in Administration, but I am currently exploring and loving the world of Programming.
 - 🎯 I'm currently learning HTML, CSS and Javascript.
 - 👯 I try to practice, learn more and more, collaborate with everyone and show some projects during my studies.
-- 💻 Uma eterna estudante...
+- 💻 An eternal student...
 - 📲 E-mail: thamycambe@gmail.com | whatsapp: +55 85 99940.1407.
 
 
