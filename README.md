@@ -1,7 +1,7 @@
 
 - 🌴 I live in Fortaleza-CE, Brazil.
 - 💙 I have a degree in Administration, but I am currently exploring and loving the world of Programming.
-- 🎯 I'm currently learning HTML, CSS and Javascript.
+- 🎯 I'm currently learning HTML, CSS, Javascript, ReactJS and NodeJS.
 - 👯 I try to practice, learn more and more, collaborate with everyone and show some projects during my studies.
 - 💻 An eternal student...
 - 📲 E-mail: thamycambe@gmail.com | whatsapp: +55 85 99940.1407.
@@ -20,6 +20,9 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
+  <a href="https://pt-br.reactjs.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
+  </a>
    <a href="https://nodejs.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    </a>
