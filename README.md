@@ -5,7 +5,7 @@
 - 🎯 I'm currently learning HTML, CSS, Javascript, ReactJS and NodeJS.
 - 👯 I try to practice, learn more and more, collaborate with everyone and show some projects during my studies.
 - 💻 I'm an eternal student...
-- 📲 E-mail: thamycambe@gmail.com | whatsapp: +55 85 99940.1407.
+- 📲 E-mail: tamilacambe@gmail.com | whatsapp: +55 85 99940.1407.
 
 
   <p align="center">
