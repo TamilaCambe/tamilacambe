@@ -1,4 +1,5 @@
 
+- 🙂 Hello, you can call me Tamy!
 - 🌴 I live in Fortaleza-CE, Brazil.
 - 💙 I have a degree in Administration, but I am currently exploring and loving the world of Programming.
 - 🎯 I'm currently learning HTML, CSS, Javascript, ReactJS and NodeJS.
