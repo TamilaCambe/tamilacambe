@@ -33,6 +33,9 @@
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
+  <a href="https://figma.com">
+      <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="40" height="40"/>
+  </a>
 </p>
 <h4 align="center"> </h4>
 <details>
