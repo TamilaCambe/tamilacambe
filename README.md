@@ -7,7 +7,6 @@
 - 💻 I'm an eternal student...
 - 📲 E-mail: tamilacambe@gmail.com | whatsapp: +55 85 99940.1407
 
-
   <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -36,6 +35,13 @@
   <a href="https://figma.com">
       <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="40" height="40"/>
   </a>
+  
+   </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/seu-usuario/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
 </p>
 <h4 align="center"> </h4>
 <details>
