@@ -1,11 +1,21 @@
 
-- 🙂 Hello, you can call me Tamy!
-- 🌴 I live in Fortaleza-CE, Brazil.
-- 💙 I have a degree in Administration, but I am currently exploring and loving the world of Programming.
-- 🎯 I'm currently learning HTML, CSS, Javascript, ReactJS and NodeJS.
-- 👯 I try to practice, learn more and more, collaborate with everyone and show some projects during my studies.
-- 💻 I'm an eternal student...
-- 📲 E-mail: tamilacambe@gmail.com | whatsapp: +55 85 99940.1407
+🙂 Hello, you can call me Tamy!
+
+🌴 I live in Fortaleza-CE, Brazil.
+
+💙 I have a degree in Administration, but I am currently exploring and loving the world of Programming.
+
+🎯 I'm currently learning HTML, CSS, Javascript, ReactJS and NodeJS.
+
+👯 I try to practice, learn more and more, collaborate with everyone and show some projects during my studies.
+
+💻 I'm an eternal student...
+
+📲 E-mail: tamilacambe@gmail.com | whatsapp: +55 85 99940.1407
+
+<p><a href="https://www.linkedin.com/in/tamila-camb%C3%A9-460910233/">
+    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+</p>
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -38,10 +48,6 @@
   
    </a>
   <br><br>
-  <a href="https://www.linkedin.com/in/tamila-camb%C3%A9-460910233/">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
 </p>
 <h4 align="center"> </h4>
 <details>
