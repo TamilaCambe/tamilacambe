@@ -3,9 +3,9 @@
 
 🌴 I live in Fortaleza-CE, Brazil.
 
-💙 I have a degree in Administration, but I am currently exploring and loving the world of Programming.
+💙 Administrator by training. Programming by passion.
 
-🎯 I'm currently learning HTML, CSS, Javascript, ReactJS and NodeJS.
+🎯 JavaScript, React, NodeJS, HTML, CSS.
 
 👯 I try to practice, learn more and more, collaborate with everyone and show some projects during my studies.
 
