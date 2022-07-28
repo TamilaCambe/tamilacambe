@@ -7,7 +7,7 @@
 
 🎯 JavaScript, React, NodeJS, HTML, CSS.
 
-👯 I try to practice, learn more and more, collaborate with everyone and show some projects during my studies.
+👯 Learning, practicing, collaborating and sharing some projects carried out during the studies.
 
 💻 I'm an eternal student...
 
