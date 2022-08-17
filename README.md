@@ -5,7 +5,7 @@
 
 💙 Administrator by training. Programming by passion.
 
-🎯 JavaScript, React, NodeJS, HTML, CSS.
+🎯 JavaScript, ReactJS, NodeJS, HTML, CSS.
 
 👯 Learning, practicing, collaborating and sharing some projects carried out during the studies.
 
