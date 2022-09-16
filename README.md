@@ -3,7 +3,7 @@
 
 🌴 I live in Fortaleza-CE, Brazil.
 
-💙 Administrator by training. Programming by passion.
+💙 Administrator by training. Programmer by passion!
 
 🎯 JavaScript, ReactJS, NodeJS, HTML, CSS.
 
